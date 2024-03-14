@@ -1,0 +1,14 @@
+C:\Users\Wesley\Desktop\Ejemplos\Patron de observer\bin\Debug\net8.0\Patron de observer.exe
+C:\Users\Wesley\Desktop\Ejemplos\Patron de observer\bin\Debug\net8.0\Patron de observer.deps.json
+C:\Users\Wesley\Desktop\Ejemplos\Patron de observer\bin\Debug\net8.0\Patron de observer.runtimeconfig.json
+C:\Users\Wesley\Desktop\Ejemplos\Patron de observer\bin\Debug\net8.0\Patron de observer.dll
+C:\Users\Wesley\Desktop\Ejemplos\Patron de observer\bin\Debug\net8.0\Patron de observer.pdb
+C:\Users\Wesley\Desktop\Ejemplos\Patron de observer\obj\Debug\net8.0\Patron de observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesley\Desktop\Ejemplos\Patron de observer\obj\Debug\net8.0\Patron de observer.AssemblyInfoInputs.cache
+C:\Users\Wesley\Desktop\Ejemplos\Patron de observer\obj\Debug\net8.0\Patron de observer.AssemblyInfo.cs
+C:\Users\Wesley\Desktop\Ejemplos\Patron de observer\obj\Debug\net8.0\Patron de observer.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\Desktop\Ejemplos\Patron de observer\obj\Debug\net8.0\Patron de observer.dll
+C:\Users\Wesley\Desktop\Ejemplos\Patron de observer\obj\Debug\net8.0\refint\Patron de observer.dll
+C:\Users\Wesley\Desktop\Ejemplos\Patron de observer\obj\Debug\net8.0\Patron de observer.pdb
+C:\Users\Wesley\Desktop\Ejemplos\Patron de observer\obj\Debug\net8.0\Patron de observer.genruntimeconfig.cache
+C:\Users\Wesley\Desktop\Ejemplos\Patron de observer\obj\Debug\net8.0\ref\Patron de observer.dll

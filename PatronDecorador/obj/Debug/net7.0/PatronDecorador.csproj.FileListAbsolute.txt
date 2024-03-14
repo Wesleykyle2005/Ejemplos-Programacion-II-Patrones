@@ -1,0 +1,14 @@
+C:\Users\Wesley\Desktop\Ejemplos\PatronDecorador\bin\Debug\net7.0\PatronDecorador.exe
+C:\Users\Wesley\Desktop\Ejemplos\PatronDecorador\bin\Debug\net7.0\PatronDecorador.deps.json
+C:\Users\Wesley\Desktop\Ejemplos\PatronDecorador\bin\Debug\net7.0\PatronDecorador.runtimeconfig.json
+C:\Users\Wesley\Desktop\Ejemplos\PatronDecorador\bin\Debug\net7.0\PatronDecorador.dll
+C:\Users\Wesley\Desktop\Ejemplos\PatronDecorador\bin\Debug\net7.0\PatronDecorador.pdb
+C:\Users\Wesley\Desktop\Ejemplos\PatronDecorador\obj\Debug\net7.0\PatronDecorador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesley\Desktop\Ejemplos\PatronDecorador\obj\Debug\net7.0\PatronDecorador.AssemblyInfoInputs.cache
+C:\Users\Wesley\Desktop\Ejemplos\PatronDecorador\obj\Debug\net7.0\PatronDecorador.AssemblyInfo.cs
+C:\Users\Wesley\Desktop\Ejemplos\PatronDecorador\obj\Debug\net7.0\PatronDecorador.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\Desktop\Ejemplos\PatronDecorador\obj\Debug\net7.0\PatronDecorador.dll
+C:\Users\Wesley\Desktop\Ejemplos\PatronDecorador\obj\Debug\net7.0\refint\PatronDecorador.dll
+C:\Users\Wesley\Desktop\Ejemplos\PatronDecorador\obj\Debug\net7.0\PatronDecorador.pdb
+C:\Users\Wesley\Desktop\Ejemplos\PatronDecorador\obj\Debug\net7.0\PatronDecorador.genruntimeconfig.cache
+C:\Users\Wesley\Desktop\Ejemplos\PatronDecorador\obj\Debug\net7.0\ref\PatronDecorador.dll

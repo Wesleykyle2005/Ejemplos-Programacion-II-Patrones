@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wesley\\Desktop\\Ejemplos\\Patron de observer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5310556A-EC55-44C0-B433-39D36AFD9EBF}|Patron de observer.csproj|c:\\users\\wesley\\desktop\\ejemplos\\patron de observer\\archivo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5310556A-EC55-44C0-B433-39D36AFD9EBF}|Patron de observer.csproj|solutionrelative:archivo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5310556A-EC55-44C0-B433-39D36AFD9EBF}|Patron de observer.csproj|c:\\users\\wesley\\desktop\\ejemplos\\patron de observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5310556A-EC55-44C0-B433-39D36AFD9EBF}|Patron de observer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5310556A-EC55-44C0-B433-39D36AFD9EBF}|Patron de observer.csproj|c:\\users\\wesley\\desktop\\ejemplos\\patron de observer\\observadormostrardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5310556A-EC55-44C0-B433-39D36AFD9EBF}|Patron de observer.csproj|solutionrelative:observadormostrardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5310556A-EC55-44C0-B433-39D36AFD9EBF}|Patron de observer.csproj|c:\\users\\wesley\\desktop\\ejemplos\\patron de observer\\lectorarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5310556A-EC55-44C0-B433-39D36AFD9EBF}|Patron de observer.csproj|solutionrelative:lectorarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5310556A-EC55-44C0-B433-39D36AFD9EBF}|Patron de observer.csproj|c:\\users\\wesley\\desktop\\ejemplos\\patron de observer\\isujetoobservado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5310556A-EC55-44C0-B433-39D36AFD9EBF}|Patron de observer.csproj|solutionrelative:isujetoobservado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5310556A-EC55-44C0-B433-39D36AFD9EBF}|Patron de observer.csproj|c:\\users\\wesley\\desktop\\ejemplos\\patron de observer\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5310556A-EC55-44C0-B433-39D36AFD9EBF}|Patron de observer.csproj|solutionrelative:iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Ejemplos\\Patron de observer\\IObserver.cs",
+              "RelativeDocumentMoniker": "IObserver.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Ejemplos\\Patron de observer\\IObserver.cs",
+              "RelativeToolTip": "IObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T03:11:13.722Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISujetoObservado.cs",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Ejemplos\\Patron de observer\\ISujetoObservado.cs",
+              "RelativeDocumentMoniker": "ISujetoObservado.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Ejemplos\\Patron de observer\\ISujetoObservado.cs",
+              "RelativeToolTip": "ISujetoObservado.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T03:12:25.359Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LectorArchivo.cs",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Ejemplos\\Patron de observer\\LectorArchivo.cs",
+              "RelativeDocumentMoniker": "LectorArchivo.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Ejemplos\\Patron de observer\\LectorArchivo.cs",
+              "RelativeToolTip": "LectorArchivo.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T03:14:47.011Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObservadorMostrarDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Ejemplos\\Patron de observer\\ObservadorMostrarDatos.cs",
+              "RelativeDocumentMoniker": "ObservadorMostrarDatos.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Ejemplos\\Patron de observer\\ObservadorMostrarDatos.cs",
+              "RelativeToolTip": "ObservadorMostrarDatos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T03:23:08.797Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Ejemplos\\Patron de observer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Ejemplos\\Patron de observer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T03:10:15.795Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "archivo.txt",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Ejemplos\\Patron de observer\\archivo.txt",
+              "RelativeDocumentMoniker": "archivo.txt",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Ejemplos\\Patron de observer\\archivo.txt",
+              "RelativeToolTip": "archivo.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-14T03:27:27.54Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

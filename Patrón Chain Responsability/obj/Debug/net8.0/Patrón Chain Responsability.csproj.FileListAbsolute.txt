@@ -1,0 +1,14 @@
+C:\Users\Wesley\Desktop\Ejemplos\Patrón Chain Responsability\bin\Debug\net8.0\Patrón Chain Responsability.exe
+C:\Users\Wesley\Desktop\Ejemplos\Patrón Chain Responsability\bin\Debug\net8.0\Patrón Chain Responsability.deps.json
+C:\Users\Wesley\Desktop\Ejemplos\Patrón Chain Responsability\bin\Debug\net8.0\Patrón Chain Responsability.runtimeconfig.json
+C:\Users\Wesley\Desktop\Ejemplos\Patrón Chain Responsability\bin\Debug\net8.0\Patrón Chain Responsability.dll
+C:\Users\Wesley\Desktop\Ejemplos\Patrón Chain Responsability\bin\Debug\net8.0\Patrón Chain Responsability.pdb
+C:\Users\Wesley\Desktop\Ejemplos\Patrón Chain Responsability\obj\Debug\net8.0\Patrón Chain Responsability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesley\Desktop\Ejemplos\Patrón Chain Responsability\obj\Debug\net8.0\Patrón Chain Responsability.AssemblyInfoInputs.cache
+C:\Users\Wesley\Desktop\Ejemplos\Patrón Chain Responsability\obj\Debug\net8.0\Patrón Chain Responsability.AssemblyInfo.cs
+C:\Users\Wesley\Desktop\Ejemplos\Patrón Chain Responsability\obj\Debug\net8.0\Patrón Chain Responsability.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\Desktop\Ejemplos\Patrón Chain Responsability\obj\Debug\net8.0\Patrón Chain Responsability.dll
+C:\Users\Wesley\Desktop\Ejemplos\Patrón Chain Responsability\obj\Debug\net8.0\refint\Patrón Chain Responsability.dll
+C:\Users\Wesley\Desktop\Ejemplos\Patrón Chain Responsability\obj\Debug\net8.0\Patrón Chain Responsability.pdb
+C:\Users\Wesley\Desktop\Ejemplos\Patrón Chain Responsability\obj\Debug\net8.0\Patrón Chain Responsability.genruntimeconfig.cache
+C:\Users\Wesley\Desktop\Ejemplos\Patrón Chain Responsability\obj\Debug\net8.0\ref\Patrón Chain Responsability.dll

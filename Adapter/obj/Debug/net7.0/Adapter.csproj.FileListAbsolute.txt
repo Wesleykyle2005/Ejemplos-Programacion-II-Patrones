@@ -1,0 +1,16 @@
+C:\Users\LABORATORIO 3\Desktop\Ejemplos\Adapter\bin\Debug\net7.0\archivo.txt
+C:\Users\LABORATORIO 3\Desktop\Ejemplos\Adapter\bin\Debug\net7.0\Adapter.exe
+C:\Users\LABORATORIO 3\Desktop\Ejemplos\Adapter\bin\Debug\net7.0\Adapter.deps.json
+C:\Users\LABORATORIO 3\Desktop\Ejemplos\Adapter\bin\Debug\net7.0\Adapter.runtimeconfig.json
+C:\Users\LABORATORIO 3\Desktop\Ejemplos\Adapter\bin\Debug\net7.0\Adapter.dll
+C:\Users\LABORATORIO 3\Desktop\Ejemplos\Adapter\bin\Debug\net7.0\Adapter.pdb
+C:\Users\LABORATORIO 3\Desktop\Ejemplos\Adapter\obj\Debug\net7.0\Adapter.csproj.AssemblyReference.cache
+C:\Users\LABORATORIO 3\Desktop\Ejemplos\Adapter\obj\Debug\net7.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO 3\Desktop\Ejemplos\Adapter\obj\Debug\net7.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO 3\Desktop\Ejemplos\Adapter\obj\Debug\net7.0\Adapter.AssemblyInfo.cs
+C:\Users\LABORATORIO 3\Desktop\Ejemplos\Adapter\obj\Debug\net7.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO 3\Desktop\Ejemplos\Adapter\obj\Debug\net7.0\Adapter.dll
+C:\Users\LABORATORIO 3\Desktop\Ejemplos\Adapter\obj\Debug\net7.0\refint\Adapter.dll
+C:\Users\LABORATORIO 3\Desktop\Ejemplos\Adapter\obj\Debug\net7.0\Adapter.pdb
+C:\Users\LABORATORIO 3\Desktop\Ejemplos\Adapter\obj\Debug\net7.0\Adapter.genruntimeconfig.cache
+C:\Users\LABORATORIO 3\Desktop\Ejemplos\Adapter\obj\Debug\net7.0\ref\Adapter.dll
